@@ -6,24 +6,12 @@
 
 There are a number of standardized [parsers]() for whatever language you're into at the moment:
 
+- [TypeScript](https://github.com/gum-lang/typescript)
 - [Python](https://github.com/gum-lang/python)
-- ~~[TypeScript](TBD)~~
-- ~~[Java](TBD)~~
-- ~~[Kotlin](TBD)~~
-- ~~[C#](TBD)~~
-- ~~[Go](TBD)~~
-- ~~[Rust](TBD)~~
-- ~~[Odin](TBD)~~
-- ~~[C](TBD)~~
-- ~~[Zig](TBD)~~
+- [Go](https://github.com/gum-lang/go)
+- [Rust](https://github.com/gum-lang/rust)
 
 Each parser is designed to replicate the API of the JSON library for its respective platform.
-
-There is also a ~~[CLI](TBD)~~ for validation, formatting, and conversion, and an ~~[LSP](TBD)~~ with several editor plugins available:
-
-- ~~[VSCode](TBD)~~
-- ~~[Neovim](TBD)~~
-- ~~[Zed](TBD)~~
 
 ## License
 
